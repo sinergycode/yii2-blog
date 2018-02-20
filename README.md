@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \sinergycode\blog\AutoloadExample::widget(); ?>```
+<?= \sinergycode\blog\AutoloadExample::widget(); ?>```# yii2-blog
